@@ -12,6 +12,9 @@ This is a simple Python script for web application fuzzing, inspired by the popu
 - Python 3.x
 - Required Python packages (can be installed using `pip`):
   - requests
+  - cowsay
+- Install:
+  - pip install -r requirements.txt
 
 ## Usage
 
