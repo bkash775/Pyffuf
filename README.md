@@ -1,4 +1,5 @@
 # A Simple python tool that simulates as FFuF
+```python
   ___________________________________________
  /                                           \
 | A simple python tool that simulates as ffuf |
@@ -13,3 +14,4 @@
                                               (__)\       )\/\
                                                   ||----w |
                                                   ||     ||
+```
