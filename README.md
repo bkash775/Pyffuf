@@ -5,10 +5,7 @@ This is a simple Python script for web application fuzzing, inspired by the popu
 ## Features
 
 - Fuzzes specific URL endpoints with payloads.
-- Supports various types of payloads, including wordlists and custom payloads.
-- Allows customization of request headers.
 - Displays response status codes and response lengths for each request.
-- Provides basic filtering options to identify potential vulnerabilities.
 
 ## Prerequisites
 
